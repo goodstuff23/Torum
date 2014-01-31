@@ -1,0 +1,26 @@
+C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\bin\WindowsGL\Debug\SDL.dll
+C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\bin\WindowsGL\Debug\Content\Graphics\bgLayer1.png
+C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\bin\WindowsGL\Debug\Content\Graphics\bgLayer2.png
+C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\bin\WindowsGL\Debug\Content\Graphics\endMenu.png
+C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\bin\WindowsGL\Debug\Content\Graphics\explosion.png
+C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\bin\WindowsGL\Debug\Content\Graphics\laser.png
+C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\bin\WindowsGL\Debug\Content\Graphics\mainbackground.png
+C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\bin\WindowsGL\Debug\Content\Graphics\mainMenu.png
+C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\bin\WindowsGL\Debug\Content\Graphics\mine.png
+C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\bin\WindowsGL\Debug\Content\Graphics\mineAnimation.png
+C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\bin\WindowsGL\Debug\Content\Graphics\player.png
+C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\bin\WindowsGL\Debug\Content\Graphics\shipAnimation.png
+C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\bin\WindowsGL\Debug\Content\Graphics\gameFont.spritefont
+C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\bin\WindowsGL\Debug\Content\Graphics\player.xnb
+C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\bin\WindowsGL\Debug\Torum 1.0.exe
+C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\bin\WindowsGL\Debug\Torum 1.0.pdb
+C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\obj\x86\Debug\Torum 1.0.exe
+C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\obj\x86\Debug\Torum 1.0.pdb
+C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\obj\x86\Debug\Torum 1.0.csprojResolveAssemblyReference.cache
+C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\bin\WindowsGL\Debug\Content\Graphics\layer1.png
+C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\bin\WindowsGL\Debug\Content\Graphics\layer2.png
+C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\bin\WindowsGL\Debug\Content\Graphics\mbg.png

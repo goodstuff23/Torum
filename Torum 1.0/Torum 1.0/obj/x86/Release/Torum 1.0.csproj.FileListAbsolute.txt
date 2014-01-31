@@ -1,0 +1,22 @@
+C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\bin\WindowsGL\Release\SDL.dll
+C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\bin\WindowsGL\Release\Content\Graphics\bgLayer1.png
+C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\bin\WindowsGL\Release\Content\Graphics\bgLayer2.png
+C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\bin\WindowsGL\Release\Content\Graphics\endMenu.png
+C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\bin\WindowsGL\Release\Content\Graphics\explosion.png
+C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\bin\WindowsGL\Release\Content\Graphics\laser.png
+C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\bin\WindowsGL\Release\Content\Graphics\mainbackground.png
+C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\bin\WindowsGL\Release\Content\Graphics\mainMenu.png
+C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\bin\WindowsGL\Release\Content\Graphics\mine.png
+C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\bin\WindowsGL\Release\Content\Graphics\mineAnimation.png
+C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\bin\WindowsGL\Release\Content\Graphics\player.png
+C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\bin\WindowsGL\Release\Content\Graphics\shipAnimation.png
+C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\bin\WindowsGL\Release\Content\Graphics\gameFont.spritefont
+C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\bin\WindowsGL\Release\Content\Graphics\player.xnb
+C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\bin\WindowsGL\Release\Torum 1.0.exe
+C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\bin\WindowsGL\Release\Torum 1.0.pdb
+C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\bin\WindowsGL\Release\Lidgren.Network.dll
+C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\bin\WindowsGL\Release\MonoGame.Framework.dll
+C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\bin\WindowsGL\Release\OpenTK.dll
+C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\bin\WindowsGL\Release\Tao.Sdl.dll
+C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\obj\x86\Release\Torum 1.0.exe
+C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\obj\x86\Release\Torum 1.0.pdb
