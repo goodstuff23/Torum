@@ -51,7 +51,7 @@ namespace Torum_1._0
             // Set the amount of damage the enemy can do
             Damage = 10;
             // Set how fast the enemy moves
-            enemyMoveSpeed = 20f;
+            enemyMoveSpeed = 21f;
             // Set the score value of the enemy
             Value = 100;
 

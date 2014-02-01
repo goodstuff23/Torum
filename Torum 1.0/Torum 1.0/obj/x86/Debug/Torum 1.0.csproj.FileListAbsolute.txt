@@ -24,3 +24,5 @@ C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\obj
 C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\bin\WindowsGL\Debug\Content\Graphics\layer1.png
 C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\bin\WindowsGL\Debug\Content\Graphics\layer2.png
 C:\Users\goodstuff\Documents\Visual Studio 2012\Projects\Torum 1.0\Torum 1.0\bin\WindowsGL\Debug\Content\Graphics\mbg.png
+C:\Users\MeowMurdle\Desktop\Downloads\Stuff\Torum\Torum src\trunk\Torum 1.0\Torum 1.0\obj\x86\Debug\Torum 1.0.exe
+C:\Users\MeowMurdle\Desktop\Downloads\Stuff\Torum\Torum src\trunk\Torum 1.0\Torum 1.0\obj\x86\Debug\Torum 1.0.pdb
